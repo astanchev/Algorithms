@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dijkstra", "Dijkstra\Dijkstra.csproj", "{095696A9-7FE2-4E50-88D1-7A296CBBFFD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpolationSearch", "InterpolationSearch\InterpolationSearch.csproj", "{9759E7A2-941C-4751-AF7A-9FF7FC8B6AD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{095696A9-7FE2-4E50-88D1-7A296CBBFFD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{095696A9-7FE2-4E50-88D1-7A296CBBFFD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{095696A9-7FE2-4E50-88D1-7A296CBBFFD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9759E7A2-941C-4751-AF7A-9FF7FC8B6AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9759E7A2-941C-4751-AF7A-9FF7FC8B6AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9759E7A2-941C-4751-AF7A-9FF7FC8B6AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9759E7A2-941C-4751-AF7A-9FF7FC8B6AD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
